@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 297 210"
+   height="210mm"
+   width="297mm"
+   sodipodi:docname="r6-barat.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.8668671"
+     inkscape:cx="527.76256"
+     inkscape:cy="367.99182"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.000563707;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="rect31"
+       width="133.13997"
+       height="132"
+       x="79.338402"
+       y="40.022812" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.000211928;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       id="rect1136"
+       width="46"
+       height="54"
+       x="122.93964"
+       y="91.201157" />
+    <g
+       id="g1604"
+       transform="matrix(0.99985963,0,0,1,24.943908,-2.9081602)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:2.08314e-05px;-inkscape-stroke:hairline"
+         d="m 98.0135,71.6699 h 2.3995 v 5e-4 c 0,0.0775 0,9.9995 0,9.9995 h -2.3995 v -4e-4 c 0,-0.0776 0,-9.9996 0,-9.9996"
+         id="path1594" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:2.08314e-05px;-inkscape-stroke:hairline"
+         d="m 108.909,71.6699 h 2.4 v 4e-4 c 0,0.0581 0,9.9996 0,9.9996 h -2.4 v -3e-4 c 0,-0.0582 0,-9.9997 0,-9.9997"
+         id="path1596" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:2.08314e-05px;-inkscape-stroke:hairline"
+         d="m 119.805,71.6699 h 2.4 v 2e-4 c 0,0.0388 0,9.9998 0,9.9998 h -2.4 v -2e-4 c 0,-0.0388 0,-9.9998 0,-9.9998"
+         id="path1598" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:2.08314e-05px;-inkscape-stroke:hairline"
+         d="m 130.702,71.6699 h 2.4 v 1e-4 c 0,0.0194 0,9.9999 0,9.9999 h -2.4 v -1e-4 c 0,-0.0194 0,-9.9999 0,-9.9999"
+         id="path1600" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:2.08314e-05px;-inkscape-stroke:hairline"
+         d="m 141.598,71.6699 h 2.4 v 0 10 h -2.4 v 0 z"
+         id="path1602" />
+    </g>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:#000000;stroke-width:0.00312571;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       d="M 145.93965,91.201159 V 145.20117"
+       id="path2547" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;vector-effect:non-scaling-stroke;fill:#000000;stroke:#000000;stroke-width:0.00312571;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="102.59668"
+       y="10.009465"
+       id="text5755"><tspan
+         sodipodi:role="line"
+         id="tspan5753"
+         style="font-size:5.64444px;stroke-width:0.00312571"
+         x="102.59668"
+         y="10.009465">Tampilan ruang 6 bagian barat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;vector-effect:non-scaling-stroke;fill:#000000;stroke:#000000;stroke-width:0.00312571;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-stroke:hairline"
+       x="130.00171"
+       y="21.769379"
+       id="text20011"><tspan
+         sodipodi:role="line"
+         id="tspan20009"
+         style="stroke-width:0.00312571"
+         x="130.00171"
+         y="21.769379">skala=1:25</tspan></text>
+  </g>
+</svg>
